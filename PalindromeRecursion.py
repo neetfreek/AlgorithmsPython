@@ -15,7 +15,7 @@ This implementation of recursion is an example of the divide-and-conquer
     (whether shorter string is a palindrome by comparing chars).
     2. solutions of subproblems can be combined to solve the problem
     (using and: if all compared chars are equal, string palindome, isn't).
-    
+
 This implementation of recursion demonstrates the use of global variables,
     NumCalls, used to track times recursion occurs in determining if
     word is a palindrome.
